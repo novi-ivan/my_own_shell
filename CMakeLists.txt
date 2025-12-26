@@ -4,4 +4,4 @@ project(my_own_shell)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(my_own_shell
-        main.cpp)
+        src/main.cpp)
